@@ -414,6 +414,38 @@
     <Content Include="Assets\webfonts\fa-solid-900.ttf" />
     <Content Include="Assets\webfonts\fa-solid-900.woff" />
     <Content Include="Assets\webfonts\fa-solid-900.woff2" />
+    <Content Include="Assets\sass\style.scss" />
+    <Content Include="Assets\sass\_about_us.scss" />
+    <Content Include="Assets\sass\_banner.scss" />
+    <Content Include="Assets\sass\_best_seller.scss" />
+    <Content Include="Assets\sass\_blog.scss" />
+    <Content Include="Assets\sass\_blog_part.scss" />
+    <Content Include="Assets\sass\_breadcrumb.scss" />
+    <Content Include="Assets\sass\_button.scss" />
+    <Content Include="Assets\sass\_client_logo.scss" />
+    <Content Include="Assets\sass\_common.scss" />
+    <Content Include="Assets\sass\_confirmation_part.scss" />
+    <Content Include="Assets\sass\_contact.scss" />
+    <Content Include="Assets\sass\_copyright_part.scss" />
+    <Content Include="Assets\sass\_cource_details.scss" />
+    <Content Include="Assets\sass\_cta_part.scss" />
+    <Content Include="Assets\sass\_elements.scss" />
+    <Content Include="Assets\sass\_extends.scss" />
+    <Content Include="Assets\sass\_feature_part.scss" />
+    <Content Include="Assets\sass\_footer.scss" />
+    <Content Include="Assets\sass\_instagram_photo.scss" />
+    <Content Include="Assets\sass\_menu.scss" />
+    <Content Include="Assets\sass\_mixins.scss" />
+    <Content Include="Assets\sass\_new_arrival.scss" />
+    <Content Include="Assets\sass\_our_offer.scss" />
+    <Content Include="Assets\sass\_product.scss" />
+    <Content Include="Assets\sass\_product_list.scss" />
+    <Content Include="Assets\sass\_review.scss" />
+    <Content Include="Assets\sass\_shipping_details.scss" />
+    <Content Include="Assets\sass\_single_blog.scss" />
+    <Content Include="Assets\sass\_special_cource.scss" />
+    <Content Include="Assets\sass\_subscribe_area.scss" />
+    <Content Include="Assets\sass\_variables.scss" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -445,7 +477,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Assets\img\blog\latest-post\" />
-    <Folder Include="Assets\sass\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

@@ -8,11 +8,11 @@ namespace shop_xyz.Controllers
 {
     public class ProductController : Controller
     {
-        public ActionResult Category()
+        public ActionResult Category(string id)
         {
             return View();
         }
-        public ActionResult Detail()
+        public ActionResult Detail(string id)
         {
             return View();
         }
